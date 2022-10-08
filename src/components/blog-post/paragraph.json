@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_blog_post_paragraphs",
+  "info": {
+    "displayName": "paragraph",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
